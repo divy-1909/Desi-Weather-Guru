@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+#weatherInfo, #recommendations {
+    background-color: #e9ecef;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+}
